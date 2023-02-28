@@ -30,5 +30,5 @@ if answer.lower().strip() == "power supply unit":
 else:
     print('Incorrect!')
 
-print("Total score: " + str(score))
-print("total score: " + str((score / 3) * 100) + "%")
+print("Total score: " + str(score) + ".")
+print("total score: " + str((score / 3) * 100) + "%.")
